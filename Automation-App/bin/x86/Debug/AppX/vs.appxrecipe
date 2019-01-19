@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>163DAEC99C643F2E0CB1F3FA94C0AC7A2DB6512B7708E32398BB7473C347260E</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>2FC0FF74BDACCA14B0D19C4EA0530F91C38A01AB3E8D1828C872B2B2A41C67A0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e9e1a258-e59f-492b-9207-ec44fc935aa5_1.0.0.0_x86__zq1yw5zts9nct</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e9e1a258-e59f-492b-9207-ec44fc935aa5_zq1yw5zts9nct!App</RegisteredUserModeAppID>
     <RegisteredPackageID>e9e1a258-e59f-492b-9207-ec44fc935aa5</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-01-19T04:36:03.366</Modified>
+      <Modified>2019-01-19T05:53:23.019</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\Automation-App.exe">
       <PackagePath>entrypoint\Automation-App.exe</PackagePath>
-      <Modified>2019-01-19T04:36:02.890</Modified>
+      <Modified>2019-01-19T05:53:22.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -542,11 +542,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-01-19T04:36:02.719</Modified>
+      <Modified>2019-01-19T05:53:22.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-01-19T04:36:02.720</Modified>
+      <Modified>2019-01-19T05:53:22.506</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -554,11 +554,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-01-19T04:23:53.594</Modified>
+      <Modified>2019-01-19T05:41:15.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\Core\Automation-App.exe">
       <PackagePath>Automation-App.exe</PackagePath>
-      <Modified>2019-01-19T04:36:03.341</Modified>
+      <Modified>2019-01-19T05:53:23.002</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

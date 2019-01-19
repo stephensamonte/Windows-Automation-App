@@ -130,7 +130,6 @@ C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\De
 C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\System.Xml.XmlDocument.dll
 C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\System.Xml.XmlSerializer.dll
 C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
-C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\obj\x86\Debug\Automation-App.csprojAssemblyReference.cache
 C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\obj\x86\Debug\MainPage.g.i.cs
 C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\obj\x86\Debug\MainPage.g.cs
 C:\Users\steph\Documents\GitHub\Windows-Automation-App\Automation-App\obj\x86\Debug\XamlTypeInfo.g.cs
