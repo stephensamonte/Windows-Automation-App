@@ -18087,11 +18087,12 @@
   },
   "libraries": {
     "Microsoft.CSharp/4.0.1": {
-      "sha512": "17h8b5mXa87XYKrrVqdgZ38JefSUqLChUQpXgSnpzsM0nDOhE40FTeNWOJ/YmySGV6tG6T8+hjz6vxbknHJr6A==",
+      "sha512": "SuvSPFxuJldijkn+ShXv63AyjmvDOMj3mIARq98WbQT5ZfqaG9XfBfDsHu66t/Zo8iNo6lrw0hTPwubbecXSEg==",
       "type": "package",
       "path": "microsoft.csharp/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -20270,11 +20271,12 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.0.2": {
-      "sha512": "fRHBvQs9Z/ZSUAqaSotK1UPol/lwybTgdeTXR4eVw3rVDgzUnWGTUsK0A418oR7NrimNL1TQu/IM0RDa26s0qg==",
+      "sha512": "Z6nHORZtHe6t8rgnqnLKcrTp5CRB2GK46CDbMhhrnc1HHiuhIrDqKDqjJ/fgtM/f26FYk8Y8pKLTB6rzAeGNZA==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.0.2",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -20689,11 +20691,12 @@
       ]
     },
     "Microsoft.VisualBasic/10.0.1": {
-      "sha512": "HpNyOf/4Tp2lh4FyywB55VITk0SqVxEjDzsVDDyF1yafDN6Bq18xcHowzCPINyYHUTgGcEtmpYiRsFdSo0KKdQ==",
+      "sha512": "etxchRjJpWEU8QcD6mtxqeXGCzlL3LyiHoDTBAxEkih3W9KTRZINkgnDAr1Diy8hD9ifaPQq2u5QPuHDrg/uog==",
       "type": "package",
       "path": "microsoft.visualbasic/10.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net45/_._",
@@ -23255,11 +23258,12 @@
       ]
     },
     "System.Collections.Immutable/1.2.0": {
-      "sha512": "Cma8cBW6di16ZLibL8LYQ+cLjGzoKxpOTu/faZfDcx94ZjAGq6Nv5RO7+T1YZXqEXTZP9rt1wLVEONVpURtUqw==",
+      "sha512": "2KnDB5xOmdERBZDniirmMPmY4AIUM7AbAIn+faLNShDc3mk0pe8iiPzBuJc5vMhTmMwEZbV2QbRAcaY+y2zwkw==",
       "type": "package",
       "path": "system.collections.immutable/1.2.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/System.Collections.Immutable.dll",
@@ -24554,11 +24558,12 @@
       ]
     },
     "System.Linq.Expressions/4.1.0": {
-      "sha512": "I+y02iqkgmCAyfbqOmSDOgqdZQ5tTj80Akm5BPSS8EeB0VGWdy6X1KCoYe8Pk6pwDoAKZUOdLVxnTJcExiv5zw==",
+      "sha512": "c0U23U9LISUgsz1XKSj5y8Z9pZf5rXVfxN+KxjAKEzIfxBtnb7XqHbMi7gOWDj3qpxVIdCo8jgpof7gb1SXVSg==",
       "type": "package",
       "path": "system.linq.expressions/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -27910,11 +27915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steph\\Documents\\GitHub\\Windows-Automation-App\\Automation-App\\Automation-App\\Automation-App.csproj",
+      "projectUniqueName": "C:\\Users\\steph\\Documents\\GitHub\\Windows-Automation-App\\Automation-App\\Automation-App.csproj",
       "projectName": "Automation-App",
-      "projectPath": "C:\\Users\\steph\\Documents\\GitHub\\Windows-Automation-App\\Automation-App\\Automation-App\\Automation-App.csproj",
+      "projectPath": "C:\\Users\\steph\\Documents\\GitHub\\Windows-Automation-App\\Automation-App\\Automation-App.csproj",
       "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steph\\Documents\\GitHub\\Windows-Automation-App\\Automation-App\\Automation-App\\obj\\",
+      "outputPath": "C:\\Users\\steph\\Documents\\GitHub\\Windows-Automation-App\\Automation-App\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

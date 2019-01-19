@@ -11,5 +11,7 @@ Windows Applicaiton to create shortcuts in windows and automate actions on event
 
 # Journal 
 - 2018.01.03 Stephen brought idea to Luis and we discussed initial thoughts on the project. Added intial thoughts conversation to notes.docx
-- 2018.01.07 Created Initial App with Visual Studio. The app is a Windows UWP App.
+- 2019.01.07 Created Initial App with Visual Studio. The app is a Windows UWP App.
+- 2019.01.18 Created Hello World Project. 
+- 2019.01.19 
 
