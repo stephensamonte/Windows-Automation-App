@@ -9,6 +9,7 @@ Windows Applicaiton to create shortcuts in windows and automate actions on event
 # References
 - Windows UWP Overview Tutorials: [Link](https://docs.microsoft.com/en-us/windows/uwp/get-started/create-uwp-apps?OCID=VSClient_Ver17_UWPOverview_tutorials)
 - Injecting input in UWP Apps: [Link](https://blog.mzikmund.com/2018/01/injecting-input-in-uwp-apps/)
+- [Creating-a-process-in-the-background-that-will-listen-to-keyboard](https://stackoverflow.com/questions/8494435/creating-a-process-in-the-background-that-will-listen-to-keyboard)
 
 # Journal 
 - 2018.01.03 Stephen brought idea to Luis and we discussed initial thoughts on the project. Added intial thoughts conversation to notes.docx
