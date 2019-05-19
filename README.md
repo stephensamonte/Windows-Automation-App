@@ -2,6 +2,9 @@
 
 Windows Applicaiton to create shortcuts in windows and automate actions on event trigger. Events include creating a new document or folder and an action example is auto adding the date to the title to a folder or document. This is what some content creators do manually to organize their data. 
 
+# Note: 
+This project is no longer being worked on. 
+
 # Environment
 - This is being programmed with Microsoft [Visual Studio Community Edition](https://visualstudio.microsoft.com/)
 - This is a [UWP Program](https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide)
